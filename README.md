@@ -4,4 +4,4 @@
 
    Skills:
 
-         Javascript, HTML, CSS, C, C#, .NET, SQL, GIT, GITBASH, etc...
+         Javascript, HTML, CSS, C, C#, .NET, SQL, GIT, GITBASH.
