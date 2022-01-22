@@ -4,6 +4,6 @@
    
    <h3>⠀🌟 Skills:</h3>
 
-         <p>Javascript, HTML, CSS, C, C# .NET, SQL, GIT, GITBASH, 
-         NodeJS, expressJS, MVC arquitecture, http protocol, SQL</p>
+         <h7>Javascript, HTML, CSS, C, C# .NET, SQL, GIT, GITBASH, 
+         NodeJS, expressJS, MVC arquitecture, http protocol, SQL</h7>
          
