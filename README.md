@@ -4,5 +4,6 @@
 
    <h3>Skills:</h3>
 
-         Javascript, HTML, CSS, C, C# .NET, SQL, GIT, GITBASH, NodeJS, expressJS, MVC arquitecture, http protocol, ORMs, JSON, SQL
+         Javascript, HTML, CSS, C, C# .NET, SQL, GIT, GITBASH, NodeJS, 
+         expressJS, MVC arquitecture, http protocol, ORMs, JSON, SQL
          
