@@ -4,5 +4,5 @@
    
    
 <h3>⠀🌟 Skills:</h3>
-<h4>Javascript, HTML, CSS, C, C# .NET, SQL, Jira</h4>
+<h4>Javascript, HTML, CSS, PHP, SQL, TMS</h4>
          
